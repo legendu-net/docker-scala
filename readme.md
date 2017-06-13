@@ -1,6 +1,6 @@
 # dclong/python
 
-Scala in Docker. 
+Scala with Maven and SBT in Docker. 
 
 ## About the Author
 

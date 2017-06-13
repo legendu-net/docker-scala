@@ -4,7 +4,7 @@ RUN apt-get update -y \
     && apt-get install -y \
         sudo \
         vim git \
-        scala \
+        scala maven sbt \
     && apt-get autoremove \
     && apt-get autoclean 
 
