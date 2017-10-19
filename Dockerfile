@@ -1,4 +1,4 @@
-FROM dclong/java
+FROM dclong/jdk
 
 RUN apt-get update -y \
     && apt-get install apt-transport-https
