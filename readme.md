@@ -1,4 +1,4 @@
-# dclong/python
+# dclong/scala
 
 Scala with Maven and SBT in Docker. 
 
