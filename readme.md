@@ -1,4 +1,4 @@
-# dclong/scala
+# [dclong/scala](https://hub.docker.com/r/dclong/scala/)
 
 Scala with Maven and SBT in Docker. 
 
